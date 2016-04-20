@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 # Name:     isthisipbad.py
 # Purpose:  Checka IP against popular IP blacklist
-# By:       Jerry Gamblin
-# Date:     11.05.15
-# Modified  11.05.15
-# Rev Level 0.5
+# Forked from Jerry Gamblin
 # -----------------------------------------------
 # Downloaded from GitHub page:
 # https://github.com/jgamblin/isthisipbad/blob/master/isthisipbad.py
